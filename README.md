@@ -1,8 +1,7 @@
 # SimilCode-Validation
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.ZZZZZZZ.svg)](https://doi.org/10.5281/zenodo.ZZZZZZZ)
-<!-- Replace ZZZZZZZ once minted -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21284183.svg)](https://doi.org/10.5281/zenodo.21284183)
 
 Companion validation repository for the **SimilCode** study, containing the blank data-collection instruments (informed-consent forms and the structured 18-item questionnaire) together with the anonymised responses of the five-expert content-validity panel that evaluated the integrated SimilCode web application.
 
@@ -82,7 +81,7 @@ Blank templates of every data-collection instrument used with the expert panel, 
 
 If you use this dataset, please cite:
 
-> Guerrero-Ulloa, G.C., Navas Rivera, R.A., Díaz-Macías, E., Hornos, M.J., & Rodríguez-Domínguez, C. (2026). *SimilCode-Validation: Expert-panel instruments and anonymised responses for the content-validity study of the SimilCode tool* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.ZZZZZZZ
+> Guerrero-Ulloa, G.C., Navas Rivera, R.A., Díaz-Macías, E., Hornos, M.J., & Rodríguez-Domínguez, C. (2026). *SimilCode-Validation: Expert-panel instruments and anonymised responses for the content-validity study of the SimilCode tool* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21284183
 
 And the associated paper:
 
